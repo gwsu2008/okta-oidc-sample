@@ -27,7 +27,7 @@ You can find the main javascript code and html in `/js/widget-app.js` and html i
 
 ## Prerequisites
 
-1. Install [node.js and npm](https://nodejs.org/en/download/) on your developer machine
+1. Install [node.js v12 and npm](https://nodejs.org/en/download/) on your developer machine
 2. Clone this Github repository to a local working directory
 3. Run `npm install` from your local working directory to install all dependencies
 
